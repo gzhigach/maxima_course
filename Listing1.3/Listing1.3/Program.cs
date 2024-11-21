@@ -3,6 +3,6 @@ class DialogDemo
 {
     static void Main ()
     {
-        MessageBox.Show("Продолжаем изучать C#","Диалоговое окно",MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
+        MessageBox.Show("Продолжаем изучать C# на maxima_course","Диалоговое окно",MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
     }
 }
